@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mac/Documents/4 семестр/операционные системы/2026 Лабы/POSIX/output/posix12"
+relocations:     []
+...
