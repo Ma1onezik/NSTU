@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mac/Documents/3 семестр/Инфа/output/test"
+relocations:     []
+...
